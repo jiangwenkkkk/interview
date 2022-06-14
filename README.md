@@ -942,6 +942,9 @@ virtual int A() = 0;
     * 没有类内初始化
     * 没有基类，也没有 virtual 函数
 
+### nullptr区别
+nullptr是一个类对象,而NULL是0
+
 ### 内存分配和管理
 
 #### malloc、calloc、realloc、alloca
